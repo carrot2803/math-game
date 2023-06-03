@@ -9,10 +9,10 @@ This is a simple Math game made in Flutter written in dart to further my learnin
   <code>There are several ways to save this repository on your device. Two of these options include:</code>
 </summary>
 
-- [Downloading repository as ZIP](https://github.com/carrot2803/math-flutter-game/archive/refs/heads/master.zip)
+- [Downloading repository as ZIP](https://github.com/carrot2803/math-game/archive/refs/heads/master.zip)
 - Running the following command in a terminal, provided the [GitHub CLI](https://cli.github.com/) has been previously installed:
 ```sh
-git clone https://github.com/carrot2803/math-flutter-game.git
+git clone https://github.com/carrot2803/math-game.git
 ```
 
 <code>Install Flutter and dependencies:  </code>
